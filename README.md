@@ -1,5 +1,7 @@
 # Sentry — Business Consultancy & Startup Acceleration
 
+![Sentry Hero — Cardiff Bay waterfront at sunset with Ferris wheel and historic Pierhead Building](image/heroe.jpg)
+
 > A fully responsive corporate landing page built with semantic HTML5, CSS3 (3D transforms, CSS Grid, custom properties), and vanilla JavaScript. Zero dependencies. No frameworks.
 
 ---
